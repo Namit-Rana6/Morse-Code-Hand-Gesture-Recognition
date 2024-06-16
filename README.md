@@ -41,7 +41,6 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 ## License
 This project is licensed under the terms of the MIT license.
-[Go to License Section](#license)
 
 ## Author
 [Linkedin](https://www.linkedin.com/in/namit-rana-958056271/)
